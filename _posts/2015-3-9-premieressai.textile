@@ -1,0 +1,7 @@
+---
+layout: post
+title: mon premier essai de blog avec Jekyll
+---
+
+![Mon avatar]({{ site.url }}/images/sacamain.png), issu de OpenClipart.
+Il s'agit d'un sac à main.
