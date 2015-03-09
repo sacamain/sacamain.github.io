@@ -1,7 +1,16 @@
 ---
 layout: post
 title: mon premier essai de blog avec Jekyll
+tags: jekyll essai
+published: true
 ---
 
-![Mon avatar]({{ site.url }}/images/sacamain.png), issu de OpenClipart.
+!{{ site.url }}/images/sacamain.png(mon avatar)!, issu de OpenClipart.
 Il s'agit d'un sac à main.
+
+Là, j'écris "un lien":/about.
+
+{% highlight python linenos %}
+def toto:
+    print "blah"
+{% endhighlight %}
