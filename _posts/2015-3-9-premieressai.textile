@@ -14,3 +14,18 @@ Là, j'écris "un lien":/about.
 def toto:
     print "blah"
 {% endhighlight %}
+
+Pour faire des items:
+* un
+* deux
+* trois
+
+Ou 
+1. un
+2. deux
+3. trois
+
+Ou 
+- un
+- deux
+- trois
