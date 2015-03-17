@@ -12,10 +12,10 @@ Il s'agit d'un sac à main.
 
 ## Lien externe
 
-Un lien vers [Jekyll Now](http://github.com/barryclark/jekyll-now/).
+Un lien vers [Jekyll Now](http://github.com/barryclark/jekyll-now/).<br>
 Un lien vers [Markdown](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md).
 
-Pour faire des liens avec des références : par exemple [la doc de Markdown][markdown] est ici.
+Pour faire des liens avec des références : par exemple [la doc de Markdown] [markdown] est ici.
 
 [markdown]: http://daringfireball.net/projects/markdown/syntax#html "Markdown: Syntax"
 
@@ -33,12 +33,13 @@ def toto:
 ```
 
 On peut aussi utiliser 4 espaces ou 1 tab:
+
    print "ca marche aussi"
 
 
 ## Comment faire des itérations
 
-Pour faire des items:
+Pour faire des items, il ne faut pas oublier une ligne d'espace :
 
 * un
 * deux
@@ -65,7 +66,7 @@ Pour mettre du code dans une itération :
 
 ## Lignes
 
-Une ligne horizontale
+Une ligne horizontale, on peut faire ça de deux façons différentes.
 
 ----
 ****
@@ -73,8 +74,11 @@ Une ligne horizontale
 ## Effets
 
 _italique_
+
 **bold**
+
 `un peu de code()`
+
 > Je cite
 >> Je cite à l'intérieur
 
