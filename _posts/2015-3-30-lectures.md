@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mes récents lectures et films que j'ai aimés
+title: Mes récentes lectures et films que j'ai aimés
 tags: livre film opinion
 published: true
 ---
